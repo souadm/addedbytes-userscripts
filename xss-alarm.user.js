@@ -1,5 +1,6 @@
 // Written by Dave Child
 // http://www.addedbytes.com
+// http://code.google.com/p/addedbytes-userscripts/
 //
 // Click on the red box to make it go away.
 // Note, some of Google's services fail to work with this, hence excluded.
@@ -8,7 +9,7 @@
 // ==UserScript==
 // @name          XSS Alarm
 // @namespace     http://addedbytes.com/
-// @description      Popup warning if script loaded from third party.
+// @description   Popup warning if script loaded from third party.
 // @exclude       http://mail.google.com/*
 // @exclude       http://www.google.com/calendar/*
 // ==/UserScript==

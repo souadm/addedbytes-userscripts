@@ -1,3 +1,7 @@
+// Written by Dave Child
+// http://www.addedbytes.com
+// http://code.google.com/p/addedbytes-userscripts/
+//
 // ==UserScript==
 // @name          Number MSN Results
 // @description	  Numbers results of MSN searches

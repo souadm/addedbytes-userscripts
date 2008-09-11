@@ -1,3 +1,7 @@
+// Written by Dave Child
+// http://www.addedbytes.com
+// http://code.google.com/p/addedbytes-userscripts/
+//
 // ==UserScript==
 // @name          Auto Save Forms
 // @description	  Saves form data every few seconds and gives option of repopulating form later.

@@ -1,3 +1,7 @@
+// Written by Dave Child
+// http://www.addedbytes.com
+// http://code.google.com/p/addedbytes-userscripts/
+//
 // ==UserScript==
 // @name          SearchJump
 // @description	  Allows you to jump quickly between search results on different engines.
