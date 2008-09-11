@@ -29,6 +29,7 @@
             ,'yimg.com' // Yahoo
             ,'co2stats.com' // CO2Stats.com (HN)
             ,'sitemeter.com' // Sitemeter
+            ,'statcounter.com' // StatCounter
             ,'hittail.com' // HitTail
             ,'quantserve.com' // Quantcast
             ,'woopra.com' // Woopra
